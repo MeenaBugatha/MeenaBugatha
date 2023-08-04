@@ -1,4 +1,4 @@
-- 👋 Greetings(Vanakkam), I go by the handle @MeenaBugatha
+- 👋 Greetings(Vanakkam), I go by the handle Meena:)
 - 👀 My passion lies in the realm of Analysis and Prediction
 - 🌱 Currently, I am a dedicated student, earnestly expanding my horizons.
 - 💞️  I am actively seeking opportunities for collaboration in the domain of DATA SCIENCE or DATA ANALYSIS.
